@@ -4,7 +4,7 @@
 [![c0debase Discord](https://discordapp.com/api/guilds/361448651748540426/embed.png)](https://discord.gg/BDwBeZ3)
 
 # c0debaseBot - Der Bot wird durch einen Recode ersetzt!
-Dieser Bot ist ein Discord Bot für den c0debase Server.
+Dieser Bot ist ein Discord Bot für den c0debase Servers.
 
 ### Anforderungen
 
